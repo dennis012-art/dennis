@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    padding-left: 10px;
+    padding-right: 5px;
+}
+.head{
+    display: flex;
+    flex-direction: row;
+    background-color: #ffff;
+    column-gap: 30px;
+    height: 70px;
+    padding-top: 20px;
+}
+.head2{
+
+}
+.head3{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+}
+.head4{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    padding-left: 230px;
+}
+.pic{
+    margin-top: -5px;
+}
+select{
+    text-decoration: none;
+    margin-bottom: 27px;
+    width: 5opx;
+    height: 40px;
+}
+.body2{
+    flex-direction: column;
+    row-gap: 30px;
+    padding-right: 20px;
+}
+.w{
+color: #ffff;
+font-family: inherit;
+font-size: x-large;
+padding-top: 40px;
+}
+.o{
+    color: #ffff;
+font-family: inherit;
+font-size: 90px;
+padding-top: 20px;
+}
+.r{
+    color: #ffff;
+font-family: inherit;
+font-size: x-large;
+padding-top: 10px;
+font-size: 30px;
+}
+.d{
+    padding-top: 10px ;
+}
+button{
+    margin-top: 40px;
+width: 200px;
+height: 50px;
+background-color: rgb(219, 153, 11);
+color: white;
+border: none;
+}
+.body1{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+background-color: rgb(59, 91, 197);
+border-radius: 20px;
+padding-left: 40px;
+padding-right: 10px;
+width: 100%;
+height: 550px;
+}
+.for{
+    background-color: lightblue;
+    width: 100%;
+    height: 200px;
+    margin-top: 20px;
+    border-radius: 20px;
+    padding-top: 60px;
+    column-gap: 40px;
+    display: flex;
+    flex-direction: row;
+    /* text-align: center; */
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.for4{
+font-size: x-large;
+color: black;
+}
+.for2{
+    padding-top: 5px;
+font-size: 18px;
+color: grey;
+}
+.for3{
+    padding-top: 5px;
+    text-decoration: none;
+    font-size: x-large;
+}
+.input{
+    margin-top: 20px;
+    display: flex;
+}
+.put{
+    width: 220px;
+    height: 70px;
+    color: rgb(19, 66, 223);
+}
+.emma h1{
+    text-align: center;
+    margin-top: 40px;
+    margin: bottom 30px; ;
+}
+.BLUE h1{
+    text-align: center;
+    margin: top 40px; ;
+    margin-bottom: ;
+}
+

@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    padding-left: 50px;
+    padding-top: 50px;
+    background-color: rgb(255, 0, 0);
+}
+a:active{
+    font-size: 30px;
+    color: aqua;
+}
+input:focus{
+    border: 5px solid red;
+    background-color: yellowgreen;
+}
+a:visited{
+    color:green ;
+}
+button:hover{
+    background-color: rgb(4, 0, 255);
+}
